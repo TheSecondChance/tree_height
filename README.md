@@ -1,5 +1,6 @@
 
-Tree Height Code Practice
+#Tree Height Code Practice
+__________________________
 This code calculates and prints a tree shape based on the given height.
 
 Overview
