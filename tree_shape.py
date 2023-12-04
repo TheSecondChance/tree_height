@@ -1,4 +1,4 @@
-tree_l = int(input("Enter How Tree Long: "))
+tree_l = int(input("Enter Tree Hight: "))
 
 space = tree_l - 1
 hash = 1
